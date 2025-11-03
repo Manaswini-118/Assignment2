@@ -1,4 +1,3 @@
-ViewCGPA.jsx 
 import React from "react"; 
 import { jsPDF } from "jspdf"; 
 const ViewCGPA = ({ studentData }) => { 
