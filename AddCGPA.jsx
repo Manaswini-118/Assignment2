@@ -1,4 +1,3 @@
-AddCGPA.jsx 
 import React, { useState } from "react"; 
 import { jsPDF } from "jspdf"; 
 const AddCGPA = ({ setStudentData }) => { 
